@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Item.PlusTime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DBG
+    uniqueID: 1471997937
+    locked: 0
+  - name: Background
+    uniqueID: 1699266425
+    locked: 0
+  - name: Ground
+    uniqueID: 4141952957
+    locked: 0
+  - name: Scaffold
+    uniqueID: 974050035
+    locked: 0
+  - name: Wall
+    uniqueID: 3083959577
+    locked: 0
+  - name: Player
+    uniqueID: 2480473261
+    locked: 0
+  - name: Arrow
+    uniqueID: 1829238841
+    locked: 0
